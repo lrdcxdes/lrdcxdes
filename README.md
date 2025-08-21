@@ -60,18 +60,11 @@ console.log("Feel free to connect and collaborate on innovative ideas.");
       <img alt="github-snake" src="github-snake.svg" />
     </picture>
   </a>
-  <p><code>---</code></p>
 </div>
 
 <div align="center">
   <!-- Profile Visitor Counter -->
-  <a href="https://github.com/lrdcxdes">
-    <img
-      src="https://profile-counter.glitch.me/lrdcxdes/count.svg"
-      alt="Profile views"
-    />
-  </a>
-  <p><code>---</code></p>
+  <a href="https://u8views.com/github/lrdcxdes"><img src="https://u8views.com/api/v1/github/profiles/83734728/views/day-week-month-total-count.svg"></a>
 </div>
 
 <div align="center">
